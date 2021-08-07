@@ -7,6 +7,7 @@
 }
 body {
   font-family: 'Poppins', sans-serif;
+  margin: 0 5px;
 }
 
 .container {
@@ -75,7 +76,7 @@ h3 {
 
 .content {
   text-align: left;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .stable {
   padding: 10px 0 5px 0;
@@ -214,4 +215,59 @@ h3 {
 .lang-desc {
   display: flex;
   flex-direction: column;
+}
+
+.align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.align .mini-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+@media (max-width: 1030px) {
+  .container {
+    width: 700px;
+  }
+
+  .align {
+    align-items: stretch;
+    justify-content: center;
+  }
+  .element p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px !important;
+  }
+}
+
+@media (max-width: 730px) {
+  .container {
+    width: auto;
+  }
+  .boxes {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .link {
+    flex-direction: column;
+  }
+  .m-5 {
+    margin: 5px 0;
+  }
+  .align {
+    flex-wrap: wrap;
+  }
 }
