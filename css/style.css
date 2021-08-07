@@ -235,6 +235,14 @@ footer {
   padding-bottom: 10px;
 }
 
+footer a {
+  text-decoration: none;
+  color: rgb(19, 163, 163);
+}
+footer a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 1030px) {
   .container {
     width: 700px;
