@@ -3,6 +3,7 @@ import Navbar from '../Navbar/Navbar';
 import data from '../ProjectsInHomeSection/allProjects.json';
 import ProjectsCardHome from '../ProjectsInHomeSection/ProjectsCardHome';
 import Footer from '../Footer/Footer';
+import {FaArrowCircleUp} from 'react-icons/all';
 
 const Projects = () => {
 
@@ -35,6 +36,9 @@ const Projects = () => {
                                             url={dat.html_url}/>)}
         </div>
         <Footer/>
+        <a href="#navbar" className="stable">
+          <FaArrowCircleUp/>
+        </a>
       </div>
   );
 };

@@ -28,9 +28,6 @@ const ContactMe = () => {
           </div>
         </div>
         <Footer/>
-        <a href="#navbar" className="stable">
-          <FaArrowCircleUp/>
-        </a>
       </div>
   );
 };
