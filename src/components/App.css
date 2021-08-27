@@ -837,6 +837,20 @@ span.fromLeft:after {
         width: 70%;
     }
 
+    .blog-inline-group {
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .blog-page-header-group {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
     .projects-in-home {
         grid-template-columns: 1fr;
     }
