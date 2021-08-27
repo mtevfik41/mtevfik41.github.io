@@ -24,7 +24,7 @@ const ProfilesInHome = () => {
           </a>
           <a href="https://www.hackerrank.com/mtevfik41" target="_blank"
              rel="noreferrer" className="profiles-link">
-            <FaHackerrank/> Hackkerrank
+            <FaHackerrank/> Hackerrank
           </a>
         </div>
       </div>
