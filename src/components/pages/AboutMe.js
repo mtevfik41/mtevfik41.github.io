@@ -72,17 +72,17 @@ const AboutMe = () => {
             <p className="about-tags">Problem Solving - Nowadays I'm using
               Leetcode and Codesignal &nbsp; <FaArrowCircleDown/></p>
             <div className="about-problem-solving">
+              <a href="https://www.hackerrank.com/mtevfik41"
+                 target="_blank" rel="noreferrer" className="about-social-link">
+                <SiHackerrank/>&nbsp;Hackerrank
+              </a>
               <a href="https://leetcode.com/mtevfik41/" target="_blank"
                  rel="noreferrer" className="about-social-link">
                 <SiLeetcode/>&nbsp;LeetCode
               </a>
-              <a href="https://www.hackerrank.com/mtevfik41" target="_blank"
+              <a href="https://app.codesignal.com/profile/mtevfik" target="_blank"
                  rel="noreferrer" className="about-social-link">
                 <CgSignal/>&nbsp;CodeSignal
-              </a>
-              <a href="https://app.codesignal.com/profile/mtevfik"
-                 target="_blank" rel="noreferrer" className="about-social-link">
-                <SiHackerrank/>&nbsp;Hackerrank
               </a>
             </div>
           </div>
