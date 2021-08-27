@@ -15,8 +15,9 @@ const HeroSection = () => {
             technology and science.
           </p>
           <p className="texts-content">
-            I love being part of development of Web Technologies, Machine
-            Learning and AI.
+            I love being part of development of Web Technologies. <br/>I am also
+            taking pleasure to interested in Machine Learning and Artificial
+            Intelligence as a hobby.
           </p>
         </div>
         <div className="hero-section-logo">

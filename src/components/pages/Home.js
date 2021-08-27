@@ -6,6 +6,7 @@ import ProjectsInHome from '../ProjectsInHomeSection/ProjectsInHome';
 import Footer from '../Footer/Footer';
 import BlogInHome from '../BlogInHomeSection/BlogInHome';
 import {FaArrowCircleUp} from 'react-icons/all';
+import ProfilesInHome from '../ProfilesInHome/ProfilesInHome';
 import '../App.css';
 
 const Home = () => {
@@ -16,6 +17,7 @@ const Home = () => {
         <HeroSection/>
         <ProjectsInHome/>
         <BlogInHome/>
+        <ProfilesInHome/>
         <Footer/>
         <a href="#navbar" className="stable">
           <FaArrowCircleUp/>

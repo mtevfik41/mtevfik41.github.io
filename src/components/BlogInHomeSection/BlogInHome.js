@@ -20,6 +20,7 @@ const BlogInHome = () => {
         <div className="recent-blogs">
           {blogDatas.slice(0, 3)
               .map(data => <BlogInHomeCard key={data.id}
+                                           data={data}
                                            header={data.blogHeader}
                                            date={data.blogDate}
                                            description={data.blogDescription}/>)}

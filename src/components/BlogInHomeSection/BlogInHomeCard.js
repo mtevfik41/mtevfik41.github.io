@@ -2,7 +2,7 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 import {FaArrowCircleRight} from 'react-icons/all';
 
-const BlogInHomeCard = ({header, date, description}) => {
+const BlogInHomeCard = ({data, header, date, description}) => {
   return (
       <div className="blog-card">
         <div className="blog-inline-group">
@@ -11,7 +11,8 @@ const BlogInHomeCard = ({header, date, description}) => {
         </div>
         <p className="blog-card-content">{description.substr(0, 120)}...</p>
         <div className="read-more-helper">
-          <Link to="/blog/:id" className="blog-card-read-more" href="#">Read
+          <Link to={`/blog/${data.blogRoute}`} className="blog-card-read-more"
+                href="#">Read
             more &nbsp; <FaArrowCircleRight/></Link>
         </div>
       </div>

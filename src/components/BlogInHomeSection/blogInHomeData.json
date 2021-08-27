@@ -1,26 +1,13 @@
 [
   {
     "id": 1,
-    "blogHeader": "blog1",
-    "blogDate": "12/06/2045",
-    "blogDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate arcu vitae massa suscipit euismod. Vestibulum ultricies, lacus nec fringilla pharetra, odio enim dignissim nunc, non posuere augue mi nec eros. Donec ac ultrices velit, quis sagittis justo. Donec bibendum, tortor ut sollicitudin eleifend, risus risus consectetur augue, et semper nibh purus a lacus. Praesent in velit nec nunc commodo laoreet non tempus leo. Morbi pellentesque ipsum mauris, vel vestibulum odio consequat eget. Aliquam erat volutpat. Cras nec augue id metus condimentum molestie at eu est. Sed ut scelerisque mi. Praesent molestie neque in lorem posuere varius. Aenean viverra scelerisque.",
-    "blogContent": "lorem21321",
-    "blogAuthor": "mtk"
-  },
-  {
-    "id": 2,
-    "blogHeader": "blog2",
-    "blogDate": "12/06/2044",
-    "blogDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate arcu vitae massa suscipit euismod. Vestibulum ultricies, lacus nec fringilla pharetra, odio enim dignissim nunc, non posuere augue mi nec eros. Donec ac ultrices velit, quis sagittis justo. Donec bibendum, tortor ut sollicitudin eleifend, risus risus consectetur augue, et semper nibh purus a lacus. Praesent in velit nec nunc commodo laoreet non tempus leo. Morbi pellentesque ipsum mauris, vel vestibulum odio consequat eget. Aliquam erat volutpat. Cras nec augue id metus condimentum molestie at eu est. Sed ut scelerisque mi. Praesent molestie neque in lorem posuere varius. Aenean viverra scelerisque.",
-    "blogContent": "lorem21321",
-    "blogAuthor": "mtk"
-  },
-  {
-    "id": 3,
-    "blogHeader": "blog3",
-    "blogDate": "12/06/2043",
-    "blogDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vulputate arcu vitae massa suscipit euismod. Vestibulum ultricies, lacus nec fringilla pharetra, odio enim dignissim nunc, non posuere augue mi nec eros. Donec ac ultrices velit, quis sagittis justo. Donec bibendum, tortor ut sollicitudin eleifend, risus risus consectetur augue, et semper nibh purus a lacus. Praesent in velit nec nunc commodo laoreet non tempus leo. Morbi pellentesque ipsum mauris, vel vestibulum odio consequat eget. Aliquam erat volutpat. Cras nec augue id metus condimentum molestie at eu est. Sed ut scelerisque mi. Praesent molestie neque in lorem posuere varius. Aenean viverra scelerisque.",
-    "blogContent": "lorem21321",
-    "blogAuthor": "mtk"
+    "blogRoute": "first3months",
+    "blogHeader": "3 Months of Web Development",
+    "blogDate": "27/08/2021",
+    "blogDescription": "What I've learned in 3 months of web development",
+    "blogContent1": "First of all, it wasn't easy, but it wasn't hard either.When I interviewed for erasmus earlier in the year before working hard, a hard truth hit me in the face. The interviewer asked me if you have any projects you have done. But I only had theoretical knowledge. After a few negative job interviews, I realized that I needed to plan a career.",
+    "blogContent2": "So I basically started to work after this situtation. I look around the web development ecosystem, and there are all these new frameworks which I have never heard of before.\nThere is way too much to learn, so I decided to just stick with frontend stuff at first. I was recommended React and I thought it was a pretty good idea because knowledge in React directly transferred over to React Native, so I could tackle web, Android, and iOS all at once.\nAfter going through the some tutorials, I realized that the way that React forms Apps out of these Components is pretty cool, and it felt like the object-oriented nature of Java applied to the JavaScript I was using before on my webpages.\nAnd after all, I made a personal page finally and I wrote this blog write to publish on my website.",
+    "blogContent3": "As for my thoughts, I like React. But it's not just about React. There are lots of helpful javascript and css libraries to learn. But I don't want to get hung up on the front-end. After some more practice with React, I'll start working on the back-end with spring boot. And that's actually the important part for me, Backend. I'm excited about this, but all the bricks must fall into place before I begin.",
+    "blogAuthor": "Mustafa Tevfik Kadan"
   }
 ]
