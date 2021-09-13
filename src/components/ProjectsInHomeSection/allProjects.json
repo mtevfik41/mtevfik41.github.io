@@ -18,10 +18,34 @@
     "name": "InterviewPractices"
   },
   {
+    "description": "A large-scale social networking application without a back-end. Built with React.js. Still under development.",
+    "html_url": "https://github.com/mtevfik41/SocialNetwork",
+    "id": 3888003353,
+    "name": "SocialNetwork"
+  },
+  {
+    "description": "Spring Framework Examples",
+    "html_url": "https://github.com/mtevfik41/springex",
+    "id": 388203353,
+    "name": "Springex"
+  },
+  {
     "description": "Information about the coin market in the last 24 hours using the Coincap API.",
     "html_url": "https://github.com/mtevfik41/Coindata",
     "id": 397652867,
     "name": "Coindata"
+  },
+  {
+    "description": "Spring Framework Pet Clinic app",
+    "html_url": "https://github.com/mtevfik41/spring-pet-clinic",
+    "id": 38880035543,
+    "name": "spring-pet-clinic"
+  },
+  {
+    "description": "I designed this project from scratch for learning.",
+    "html_url": "https://github.com/mtevfik41/NatoursProject",
+    "id": 386416143,
+    "name": "NatoursProject"
   },
   {
     "description": "Travel website which I developed using React.",
@@ -35,12 +59,7 @@
     "id": 397251267,
     "name": "TodoApp"
   },
-  {
-    "description": "I designed this project from scratch for learning.",
-    "html_url": "https://github.com/mtevfik41/NatoursProject",
-    "id": 386416143,
-    "name": "NatoursProject"
-  },
+
   {
     "description": "Simple fictional company landing page with HTML, CSS and Sass. Especially, I focused on how to use CSS Grid System.",
     "html_url": "https://github.com/mtevfik41/NexterProject",
