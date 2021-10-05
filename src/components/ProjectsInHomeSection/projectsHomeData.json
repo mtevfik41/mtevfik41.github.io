@@ -6,10 +6,10 @@
     "name": "mtevfik41.github.io"
   },
   {
-    "description": "A simple application to show various information such as username, name, number of followers, number of people followed, etc. of profiles on github with using GithubAPI.",
-    "html_url": "https://github.com/mtevfik41/GithubFinder",
-    "id": 388800353,
-    "name": "GithubFinder"
+    "description": "The examples I implemented with what I learned as a result of my research about Spring.",
+    "html_url": "https://github.com/mtevfik41/SpringExamples",
+    "id": 38828400353,
+    "name": "Spring Examples"
   },
   {
     "description": "This repository contains the questions I solved from the books I used and the notes I took.",
@@ -18,28 +18,46 @@
     "name": "InterviewPractices"
   },
   {
+    "description": "CMP-431/432 Graduation Project Team Repository. E-commerce website & mobile app.",
+    "html_url": "https://github.com/mtevfik41/CMPE431GradProject",
+    "id": 38880033253,
+    "name": "Graduation Project"
+  },
+  {
+    "description": "A simple application to show various information such as username, name, number of followers, number of people followed, etc. of profiles on github with using GithubAPI.",
+    "html_url": "https://github.com/mtevfik41/GithubFinder",
+    "id": 388800353,
+    "name": "GithubFinder"
+  },
+  {
+    "description": "The implementation of the \"Taco Cloud\" project in the book 'Spring in Action' by me.",
+    "html_url": "https://github.com/mtevfik41/taco-cloud",
+    "id": 3952604620291,
+    "name": "Taco Cloud"
+  },
+  {
+    "description": "Task management app with express.js, mongoose and jwt",
+    "html_url": "https://github.com/mtevfik41/task-manager",
+    "id": 39154620291,
+    "name": "Task Manager"
+  },
+  {
+    "description": "Terminal based note-taking application using the yargs package.",
+    "html_url": "https://github.com/mtevfik41/notescli",
+    "id": 39276532867,
+    "name": "NotesCLI"
+  },
+  {
     "description": "A large-scale social networking application without a back-end. Built with React.js. Still under development.",
     "html_url": "https://github.com/mtevfik41/SocialNetwork",
     "id": 3888003353,
     "name": "SocialNetwork"
   },
   {
-    "description": "Spring Framework Examples",
-    "html_url": "https://github.com/mtevfik41/springex",
-    "id": 388203353,
-    "name": "Springex"
-  },
-  {
     "description": "Information about the coin market in the last 24 hours using the Coincap API.",
     "html_url": "https://github.com/mtevfik41/Coindata",
     "id": 397652867,
     "name": "Coindata"
-  },
-  {
-    "description": "Spring Framework Pet Clinic app",
-    "html_url": "https://github.com/mtevfik41/spring-pet-clinic",
-    "id": 38880035543,
-    "name": "spring-pet-clinic"
   },
   {
     "description": "I designed this project from scratch for learning.",
@@ -71,5 +89,83 @@
     "html_url": "https://github.com/mtevfik41/TrilloProject",
     "id": 387622868,
     "name": "TrilloProject"
+  },
+  {
+    "description": "50 mini projects built with HTML5, CSS, Sass & JavaScript for sharpening my skills.",
+    "html_url": "https://github.com/mtevfik41/MiniProjects",
+    "id": 393818648,
+    "name": "MiniProjects"
+  },
+  {
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries.",
+    "html_url": "https://github.com/mtevfik41/VanillaJS-WebProjects",
+    "id": 388968722,
+    "name": "VanillaJS-WebProjects"
+  },
+  {
+    "description": "Landing page that counts down from the current date to the next new year",
+    "html_url": "https://github.com/mtevfik41/NewYearCountdown",
+    "id": 392494102,
+    "name": "NewYearCountdown"
+  },
+  {
+    "description": "Video browser app with React.js. I used Youtube API.",
+    "html_url": "https://github.com/mtevfik41/video-browser",
+    "id": 399588905,
+    "name": "video-browser"
+  },
+  {
+    "description": "Create beautiful UI to play music stored in the \"music folder\" using the HTML5 audio API",
+    "html_url": "https://github.com/mtevfik41/MusicPlayer",
+    "id": 391207504,
+    "name": "MusicPlayer"
+  },
+  {
+    "description": "Search and generate random meals from the MealDB (www.themealdb.com) API",
+    "html_url": "https://github.com/mtevfik41/MealFinder",
+    "id": 391106777,
+    "name": "MealFinder"
+  },
+  {
+    "description": "Calorie tracking app with CRUD operations. I developed it using DOM, Module pattern, Local Storage and Materialize CSS.",
+    "html_url": "https://github.com/mtevfik41/Tracalorie",
+    "id": 390800293,
+    "name": "Tracalorie"
+  },
+  {
+    "description": "My mega Bootstrap project.",
+    "html_url": "https://github.com/mtevfik41/Glozzom",
+    "id": 385706529,
+    "name": "Glozzom"
+  },
+  {
+    "description": "I created a simple website to practice responsive design, HTML and CSS.",
+    "html_url": "https://github.com/mtevfik41/EdgeLedger",
+    "id": 383300641,
+    "name": "EdgeLedger"
+  },
+  {
+    "description": "I created a simple hotel website to practice responsive design, HTML and CSS. You can review the screenshots folder to view the pages.",
+    "html_url": "https://github.com/mtevfik41/hotel_website",
+    "id": 382724763,
+    "name": "hotel_website"
+  },
+  {
+    "description": "My playground for going through the projects of freecodecamp, responsive web design certification.",
+    "html_url": "https://github.com/mtevfik41/FCC-ResponsiveDesignProjects",
+    "id": 382479926,
+    "name": "FCC-ResponsiveDesignProjects"
+  },
+  {
+    "description": "A responsive website for practicing css grid.",
+    "html_url": "https://github.com/mtevfik41/news-grid",
+    "id": 381846237,
+    "name": "news-grid"
+  },
+  {
+    "description": "Different problems which i solved from different problem solving websites.",
+    "html_url": "https://github.com/mtevfik41/Problems",
+    "id": 336389565,
+    "name": "Problems"
   }
 ]

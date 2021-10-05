@@ -87,9 +87,9 @@ const AboutMe = () => {
             </div>
           </div>
         </div>
-        <Link className="cv" target="_blank" to="/files/cv.pdf"
+        <Link style={{marginTop: '35px'}} className="cv" target="_blank" to="/files/cv.pdf"
               download="cv(Mustafa Tevfik Kadan)"
-        >Download CV as PDF</Link>
+        >Download CV as PDF <span className="cv-span">Last uploaded 04 August 2021</span></Link>
         <Footer/>
         <a href="#navbar" className="stable">
           <FaArrowCircleUp/>

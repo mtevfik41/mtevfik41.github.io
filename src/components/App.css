@@ -629,11 +629,32 @@ span.fromLeft:after {
     height: 35px;
     border-radius: 8px;
     margin: 0 auto;
+    position: relative;
 }
 
 .cv:hover {
     background-color: rgba(0, 0, 0, .1);
     color: #fff;
+}
+
+.cv:hover .cv-span {
+    display: inline-block;
+    position: absolute;
+    top: -90%;
+    right: 0;
+    width: 110%;
+    transform: translateX(5%);
+    height: 30px;
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    padding: 5px;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+.cv-span {
+    display: none;
 }
 
 .mobile-content-div {

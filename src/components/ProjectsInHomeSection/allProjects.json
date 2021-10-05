@@ -6,10 +6,10 @@
     "name": "mtevfik41.github.io"
   },
   {
-    "description": "A simple application to show various information such as username, name, number of followers, number of people followed, etc. of profiles on github with using GithubAPI.",
-    "html_url": "https://github.com/mtevfik41/GithubFinder",
-    "id": 388800353,
-    "name": "GithubFinder"
+    "description": "The examples I implemented with what I learned as a result of my research about Spring.",
+    "html_url": "https://github.com/mtevfik41/SpringExamples",
+    "id": 38828400353,
+    "name": "Spring Examples"
   },
   {
     "description": "This repository contains the questions I solved from the books I used and the notes I took.",
@@ -18,28 +18,46 @@
     "name": "InterviewPractices"
   },
   {
+    "description": "CMP-431/432 Graduation Project Team Repository. E-commerce website & mobile app.",
+    "html_url": "https://github.com/mtevfik41/CMPE431GradProject",
+    "id": 38880033253,
+    "name": "Graduation Project"
+  },
+  {
+    "description": "A simple application to show various information such as username, name, number of followers, number of people followed, etc. of profiles on github with using GithubAPI.",
+    "html_url": "https://github.com/mtevfik41/GithubFinder",
+    "id": 388800353,
+    "name": "GithubFinder"
+  },
+  {
+    "description": "The implementation of the \"Taco Cloud\" project in the book 'Spring in Action' by me.",
+    "html_url": "https://github.com/mtevfik41/taco-cloud",
+    "id": 3952604620291,
+    "name": "Taco Cloud"
+  },
+  {
+    "description": "Task management app with express.js, mongoose and jwt",
+    "html_url": "https://github.com/mtevfik41/task-manager",
+    "id": 39154620291,
+    "name": "Task Manager"
+  },
+  {
+    "description": "Terminal based note-taking application using the yargs package.",
+    "html_url": "https://github.com/mtevfik41/notescli",
+    "id": 39276532867,
+    "name": "NotesCLI"
+  },
+  {
     "description": "A large-scale social networking application without a back-end. Built with React.js. Still under development.",
     "html_url": "https://github.com/mtevfik41/SocialNetwork",
     "id": 3888003353,
     "name": "SocialNetwork"
   },
   {
-    "description": "Spring Framework Examples",
-    "html_url": "https://github.com/mtevfik41/springex",
-    "id": 388203353,
-    "name": "Springex"
-  },
-  {
     "description": "Information about the coin market in the last 24 hours using the Coincap API.",
     "html_url": "https://github.com/mtevfik41/Coindata",
     "id": 397652867,
     "name": "Coindata"
-  },
-  {
-    "description": "Spring Framework Pet Clinic app",
-    "html_url": "https://github.com/mtevfik41/spring-pet-clinic",
-    "id": 38880035543,
-    "name": "spring-pet-clinic"
   },
   {
     "description": "I designed this project from scratch for learning.",
